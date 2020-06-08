@@ -8,6 +8,7 @@ CREATE COMPUTE MODULE ConsumerTcpipRequest_Compute
 		  CALL CopyEntireMessage();
 		RETURN TRUE;
 	END;
+	--> HELLO
 
 	CREATE PROCEDURE CopyMessageHeaders() BEGIN
 		DECLARE I INTEGER 1;
