@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>FixedLength</name>
+	<name>TCPIP</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -102,11 +102,6 @@
 		</buildCommand>
 		<buildCommand>
 			<name>com.ibm.etools.mft.unittest.ui.TestCaseBuilder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-		<buildCommand>
-			<name>com.ibm.dfdl.validation.dfdlBuilder</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
